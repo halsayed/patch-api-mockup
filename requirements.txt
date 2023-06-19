@@ -1,0 +1,12 @@
+Bootstrap-Flask
+click
+Flask
+Flask-SQLAlchemy
+Flask-WTF
+gunicorn
+itsdangerous
+Jinja2
+MarkupSafe
+SQLAlchemy
+Werkzeug
+WTForms
